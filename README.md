@@ -9,5 +9,3 @@
 ### - 😄 Pronouns: HE/HIM
 ### - ⚡ Fun fact: I LOVE CODING
 
-
-**TheBlisteringSun/TheBlisteringSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
